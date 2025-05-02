@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class SwitchStatement{
   public static void main(String args[]){
     int number = 2;
